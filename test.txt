@@ -1,0 +1,10 @@
+a;b;c;d;q
+a;b;c;d;q
+a;b;"c";d;q
+a;b;"c";d;q
+a;b;"c"2;d;q
+a;b;"c";d;q
+a;b;c;d;q
+a;b;c;d;q
+a;b;c;d;q
+a;b;c;d;q
